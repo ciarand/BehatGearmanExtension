@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # BehatGearmanExtension
 
 Distributed / parallel execution of Behat suite across multiple Gearman workers.
